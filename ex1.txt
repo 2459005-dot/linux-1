@@ -1,0 +1,4 @@
+Hello Vim!
+
+Line2
+Line3
